@@ -74,29 +74,3 @@ simulate_sand_with_floor(floor_high)
 
 # how many new grains
 print(len(paths_points) - number_of_path_points)
-
-# y
-# print(paths_points)
-#
-# ss = {(494, 9),
-#       (495, 9),
-#       (496, 9),
-#       (497, 9),
-#       (498, 9),
-#       (499, 9),
-#       (500, 9),
-#       (501, 9),
-#       (502, 9),
-#       (502, 8),
-#       (502, 7),
-#       (502, 6),
-#       (502, 5),
-#       (502, 4),
-#       (503, 4),
-#       (496, 6),
-#       (497, 6),
-#       (498, 6),
-#       (498, 5),
-#       (498, 4)}
-#
-# print(ss == paths_points)
